@@ -1,0 +1,11 @@
+apertium-hin (0.1.0~r57344-1) trusty; urgency=low
+
+  [ Tino Didriksen ]
+  * Initial release
+  * No tarball release, so taking directly from svn
+
+  [ Kartik Mistry ]
+  * Fixed dependencies.
+  * Rebuilt for Trusty.
+
+ -- Kartik Mistry <kartik@debian.org>  Tue, 09 Jun 2015 13:09:37 +0530
