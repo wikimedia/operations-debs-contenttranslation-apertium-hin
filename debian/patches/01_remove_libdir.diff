@@ -1,0 +1,13 @@
+Description: Remove libdir from pkg-config
+Index: b/apertium-hin.pc.in
+===================================================================
+--- a/apertium-hin.pc.in
++++ b/apertium-hin.pc.in
+@@ -1,7 +1,5 @@
+ prefix=@prefix@
+ exec_prefix=@exec_prefix@
+-libdir=@libdir@
+-dir=@libdir@/apertium/apertium-hin
+ srcdir=@datarootdir@/apertium/apertium-hin
+ 
+ Name: apertium-hin

@@ -1,3 +1,12 @@
+apertium-hin (0.1.0~r59158-1+wmf1) jessie-wikimedia; urgency=low
+
+  * New upstream snapshot.
+  * Rebuild for Jessie
+  * Fixed dependencies.
+  * Clean debian/rules file.
+
+ -- Kartik Mistry <kartik@debian.org>  Tue, 09 Aug 2016 10:14:35 +0530
+
 apertium-hin (0.1.0~r57344-1) trusty; urgency=low
 
   [ Tino Didriksen ]
